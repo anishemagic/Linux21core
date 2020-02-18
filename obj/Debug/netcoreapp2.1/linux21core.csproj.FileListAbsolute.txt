@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\linux21core\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Admin\source\repos\linux21core\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Admin\source\repos\linux21core\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Admin\source\repos\linux21core\obj\Debug\netcoreapp2.1\linux21core.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\linux21core\obj\Debug\netcoreapp2.1\linux21core.AssemblyInfo.cs
+C:\Users\Admin\source\repos\linux21core\bin\Debug\netcoreapp2.1\linux21core.deps.json
+C:\Users\Admin\source\repos\linux21core\bin\Debug\netcoreapp2.1\linux21core.runtimeconfig.json
+C:\Users\Admin\source\repos\linux21core\bin\Debug\netcoreapp2.1\linux21core.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\linux21core\bin\Debug\netcoreapp2.1\linux21core.dll
+C:\Users\Admin\source\repos\linux21core\bin\Debug\netcoreapp2.1\linux21core.pdb
+C:\Users\Admin\source\repos\linux21core\obj\Debug\netcoreapp2.1\linux21core.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\linux21core\obj\Debug\netcoreapp2.1\linux21core.RazorAssemblyInfo.cache
+C:\Users\Admin\source\repos\linux21core\obj\Debug\netcoreapp2.1\linux21core.RazorAssemblyInfo.cs
+C:\Users\Admin\source\repos\linux21core\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Admin\source\repos\linux21core\obj\Debug\netcoreapp2.1\linux21core.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\source\repos\linux21core\obj\Debug\netcoreapp2.1\linux21core.dll
+C:\Users\Admin\source\repos\linux21core\obj\Debug\netcoreapp2.1\linux21core.pdb
